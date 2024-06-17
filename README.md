@@ -20,15 +20,11 @@ In Moodle, badges are verifiable credentials awarded to learners for their achie
 
 ### Prerequisites: WampServer64
 
-1. Visit the official WampServer website at [https://www.wampserver.com/en/download-wampserver-64bits/](https://www.wampserver.com/en/download-wampserver-64bits/) and download WampServer64 for your operating system.
-2. Extract the downloaded ZIP archive to your local hard drive (default installation path: "C:\wamp64").
+
 
 ### Installation Steps
 
-1. Download the appropriate Windows version of Moodle 4.1.2 from the official Moodle website at [https://moodle.en.uptodown.com/windows/download](https://moodle.en.uptodown.com/windows/download).
-2. Extract the Moodle ZIP folder to "C:\wamp64\www" and rename it to "moodle4".
-3. Open your preferred browser and enter "http://localhost/moodle4/" in the address bar.
-4. Follow the installation steps displayed in the browser to complete the installation. You will be logged in as the Administrator upon completion.
+
 
 ## Issuing Badges as a Teacher
 
